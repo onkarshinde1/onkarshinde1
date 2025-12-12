@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onkarshinde1&label=Profile%20views&color=0e75b6&style=flat" alt="onkarshinde1" /> </p>
 
-- 🔭 I’m currently working on **Bookstore**
+- 🔭 I’m currently working on **Bookstore website**
 
 - 🌱 I’m currently learning **Data Structure**
 
