@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Bookstore website**
 
-- 🌱 I’m currently learning **Data Structure**
+- 🌱 I’m currently learning **Data Structure & Algorithm**
 
 - 🤝 I’m looking for help with **Backend**
 
